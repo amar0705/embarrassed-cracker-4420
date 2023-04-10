@@ -54,5 +54,9 @@ Start the server
 
 ## Screenshots
 
-
+![Screenshot](Homepage.png)
+![Screenshot](Merch.png)
+![Screenshot](Products.png)
+![Screenshot](Dashboard.png)
+![Screenshot](Checkout.png)
 
